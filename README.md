@@ -1,5 +1,5 @@
 # SuperTrunfo 
-Uma versão feita da imersão Dev da Alura.
+Uma versão feita na imersão Dev da Alura.
 
 ainda em desenvolvimento...
 
